@@ -1,1 +1,25 @@
-\# Hi there, I'm Aleyna! 👋 ### 📊 About Me - 🔭 Currently working on \*\*Data Analysis &amp; Data Visualization\*\* projects. - 💡 Extracting business insights from data through projects like \*\*SuperStore Sales Analysis\*\* and \*\*Global Forest Insights\*\*. - 🌱 Actively honing my skills in \*\*Python, SQL, Data Analytics, and Machine Learning\*\*. - 🛠️ Core tools: \*\*Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks, Git\*\*. - 📫 How to reach me: \*\*[LinkedIn Profile Link]\*\* | \*\*[Your Email Address]\*\* --- ### 🛠️ Tech Stack &amp; Tools ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white) --- ### 📌 Featured Projects - 🛍️ \*\*[SuperStore Sales Analysis](https://github.com/aleyna-yildiz/SuperStore-Sales-Analysis)\*\* — Exploratory data analysis on customer segments, profitability by region, and sales trends. - 🌲 \*\*[Global Forest Insights](https://github.com/aleyna-yildiz/OPIT-Data-Analysis-Project)\*\* — Data analysis investigating environmental and global forestry datasets. --- ### 📈 GitHub Stats ![Aleyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleyna-yildiz&amp;show\_icons=true&amp;theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-yildiz&amp;layout=compact&amp;theme=tokyonight)
+# Hi, I'm Aleyna! 
+
+I'm a Data Science student at Almaty Technological University, building a portfolio in data analytics and visualization.
+
+## Featured Project
+
+### [Global Wheat Production Analysis (2010–2024)](https://github.com/aleyna-yildiz/-Global-Wheat-Production-Analysis)
+
+Analyzed 1,858 FAOSTAT records to explore global wheat production trends and country rankings. Used Python, SQL, BigQuery, and Tableau to clean the data, investigate changes over time, and build a dashboard.
+
+**Key finding:** Reported global wheat production increased by 22.1% over the analyzed period.
+
+## Other Projects
+
+[SuperStore Sales Analysis](https://github.com/aleyna-yildiz/SuperStore-Sales-Analysis) — Explored customer segments, regional profitability, and sales trends.
+
+[Global Forest Insights](https://github.com/aleyna-yildiz/OPIT-Data-Analysis-Project) — Analyzed environmental and forestry data.
+
+## Tools
+
+Python · Pandas · NumPy · Matplotlib · Seaborn · SQL · BigQuery · Tableau · Jupyter · Git
+
+## Currently Learning
+
+Data science, analytics, visualization, and machine learning.
